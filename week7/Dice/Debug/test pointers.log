@@ -1,4 +1,0 @@
-﻿  test pointers.cpp
-C:\Users\hscng\OneDrive\Documents\Test code\test pointers\test pointers.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\hscng\OneDrive\Documents\Test code\test pointers\test pointers.cpp(34): warning C4715: 'dice': not all control paths return a value
-  test pointers.vcxproj -> C:\Users\hscng\OneDrive\Documents\Test code\test pointers\Debug\test pointers.exe
